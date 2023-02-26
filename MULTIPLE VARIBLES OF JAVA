@@ -1,0 +1,15 @@
+MULTIPLE VARIBLES OF JAVA 
+
+
+package BASICSOFJAVA;
+
+public class MultipleVariables {
+    public static void main(String[] args) {
+       int x = 5, y = 9, z = 90;
+        System.out.println(x);
+        System.out.println(y+100);
+        System.out.println(z);
+
+
+    }
+}
