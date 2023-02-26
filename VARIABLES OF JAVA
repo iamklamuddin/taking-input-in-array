@@ -1,0 +1,25 @@
+VARIABLES OF JAVA 
+package BASICSOFJAVA;
+
+public class variablesint {
+    public static void main(String[] args) {
+        int x;
+        x = 5000;
+        System.out.println(x);
+        x = x + 5;
+        System.out.println(x);
+
+        // Arithmetic Opretors
+        int s = 5;
+        int y = 2;
+        System.out.println(s+y);
+        System.out.println(s-y);
+        System.out.println(s*y);
+        System.out.println(s/y);
+
+
+       // x = 400;
+       // System.out.println(x);
+        //System.out.println(x+1);
+    }
+}
